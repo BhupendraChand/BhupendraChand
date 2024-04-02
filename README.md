@@ -1,8 +1,12 @@
+![logo](https://github.com/BhupendraChand/BhupendraChand/assets/133785701/c43ffbec-7152-4867-b010-1b106ae6eff1width: '100%')
+
+
 ### Hi there 👋
 
-<!--
 **BhupendraChand/BhupendraChand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
+<image align="right" alt="coding" width="400px"  height="200px" src="https://www.lambdatest.com/resources/images/news24.gif"></image>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bhupendrachand749@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
