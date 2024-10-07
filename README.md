@@ -3,10 +3,11 @@
 
   
  <p>
+   <image  alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></image>
 <image src='https://i.gifer.com/GYny.gif'>  </img></p>
 
 
-<image  alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></image>
+
 
 <h1 align="center">Hi 👋, I'm Bhupendra Chand</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
