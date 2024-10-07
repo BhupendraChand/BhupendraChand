@@ -4,13 +4,13 @@
   
  <p>
    <image  alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></image>
-   <image   alt="coding" width="100%" src='https://user-images.githubusercontent.com/86276393/196288089-dfcb900c-4a27-4f82-95dd-eb0233461bfa.gif'>  </img>
+   
 <image   alt="coding" width="100%" src='https://i.gifer.com/GYny.gif'>  </img></p>
 
 
 
 
-<h1 align="center">Hi 👋, I'm Bhupendra Chand</h1>
+<h1 align="center">    <image  alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></image>Hi 👋, I'm Bhupendra Chand</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
 - 🔭 I’m currently working on project **doctor appointment management system**
