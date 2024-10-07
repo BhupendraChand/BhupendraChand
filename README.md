@@ -3,16 +3,17 @@
 
   
  <p>
-   <image   alt="coding" width="100%" src='https://i.gifer.com/GYny.gif'>  </img>
-  
+   
+   <image alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></image>
 </p>
 
 
 
 
 <h1 align="center">Hi 👋, I'm Bhupendra Chand</h1>
+<image  align="right"   alt="coding" width="50%" src='https://i.gifer.com/GYny.gif'>  </img>
 <h3 align="center">A passionate developer from Nepal</h3>
- <image align="right" alt="coding" width="50%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></image>
+
 - 🔭 I’m currently working on project **doctor appointment management system**
 
 - 🌱 I’m currently learning javascript ,php **react js**
