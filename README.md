@@ -10,12 +10,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Bhupendra Chand</h1>
-<h3 align="center">🚗 Owner of Auto Cut and Shoe Workshop 🥾</h3>
+<h3 align="center">💻 Passionate Web Developer | Frontend & Backend Enthusiast 🌐</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mechanic-Auto-blue" />
-  <img src="https://img.shields.io/badge/Shoe%20Repair-Expert-green" />
-  <img src="https://img.shields.io/badge/Workshop%20Location-Nepal-red" />
+  <img src="https://img.shields.io/badge/Role-Web%20Developer-blue" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Stack-green" />
+  <img src="https://img.shields.io/badge/Location-Nepal-red" />
 </p>
 <image  align="right"   alt="coding" width="50%" src='https://i.gifer.com/GYny.gif'>  </img>
 <h3 align="center">A passionate developer from Nepal</h3>
