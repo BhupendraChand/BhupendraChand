@@ -14,11 +14,11 @@
 <image  align="right"   alt="coding" width="50%" src='https://i.gifer.com/GYny.gif'>  </img>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-- 🔭 I’m currently working on project **doctor appointment management system**
+- 🔭 I’m currently **Exploring the Web one repo at a time and push code and pull dreams.**
 
-- 🌱 I’m currently learning javascript ,php **react js**
+- 🌱 I’m currently learning javascript ,php **react js**,Saas
 
-- 📫 How to reach me **bhupendrachand749@gmail.com,9745807727**
+- 📫 How to reach me **bhupendrachand749@gmail.com,+977-9745807727 ,+977-9821618660**
 
 - ⚡ Fun fact **I think i am funny.**
 
