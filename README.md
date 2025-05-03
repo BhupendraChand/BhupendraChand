@@ -10,7 +10,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bhupendra Chand</h1>
-<h3 align="center">💻 Passionate Web Developer | Frontend & Backend Enthusiast 🌐</h3>
+<h3 align="center">💻 Passionate Web | Frontend & Backend  🌐</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Web%20Developer-blue" />
