@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Web%20Developer-blue" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Stack-green" />
+<!--   <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Stack-green" /> -->
   <img src="https://img.shields.io/badge/Location-Nepal-red" />
 </p>
 <image  align="right"   alt="coding" width="50%" src='https://i.gifer.com/GYny.gif'>  </img>
